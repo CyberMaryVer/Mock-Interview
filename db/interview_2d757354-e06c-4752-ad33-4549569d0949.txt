@@ -1,0 +1,32 @@
+[1] Interview summary:
+Interviewer: Hi, I'm your interviewer. My name is Ted. What is your name?
+Candidate: Moki
+Interviewer: Nice to meet you, Moki. Let's get started with the interview.   1. Tell me about yourself. 
+Candidate: I'm currently a Software Engineer at Google, where I focus on machine learning and natural language processing projects. My role involves designing, building, and deploying models that enhance user experience and provide more accurate search results. I work closely with cross-functional teams, including Data Scientists and UX Designers, to make sure we're aligned with user needs. Before Google, I was at a startup, where I gained hands-on experience in developing scalable machine learning systems. I've always been passionate about leveraging technology to solve real-world problems, and I believe that's what I can bring to your team as well.
+Interviewer: That's impressive, Moki. It seems like you have a strong background in software engineering and machine learning.   2. What are your strengths?
+Candidate: accuracy
+Interviewer: Great! Accuracy is definitely an important strength to have, especially in your field.   3. What are your weaknesses?
+Candidate: Certainly, self-improvement is an ongoing process. One area where I feel I could improve is patience. I'm naturally inclined to get things done as quickly as possible, but I've learned that sometimes the best results require time and thoroughness. It's a balance I'm always striving to perfect.  Another area I'm working on is broadening my skill set to include more data engineering skills. As a machine learning engineer, I focus heavily on algorithmic solutions, but I recognize the importance of data pipelines and how they contribute to the overall success of a project. I've started taking courses on this and hope to implement what I learn in future projects.
+Interviewer: Thank you for being honest, Moki. It's great to see that you're aware of areas where you can improve and that you're taking active steps to address them.   4. Why do you want this job?
+Candidate: I'm drawn to this position for several reasons. First, the company's focus on pioneering technologies that leverage artificial intelligence and machine learning to solve complex problems aligns perfectly with my personal and professional interests. I've always been captivated by the idea of using machine learning to make significant impacts in areas like healthcare, automation, and data analytics.
+Interviewer: That's great to hear, Moki. It's important to have a strong alignment between your personal interests and the company's focus.   5. Where would you like to be in your career five years from now?
+Candidate: In five years, I see myself taking on greater responsibilities in the realm of machine learning and data science, whether that involves leading a team or diving deep into specialized research. I aim to be at the forefront of technological innovation, working on projects that have the potential to bring significant positive change to society.
+Interviewer: That sounds like an ambitious and exciting goal, Moki. It's great to see your passion for making a meaningful impact through your work.   6. What's your ideal company?
+Candidate: Google
+Interviewer: I see, Moki. It seems like you have a strong affinity for Google.   7. What attracted you to this company?
+Candidate: technological innovation, working on projects that have the potential to bring significant positive change to society
+Interviewer: It's clear that you're drawn to companies that prioritize technological innovation and have a strong societal impact.   8. Why should we hire you?
+Candidate: Passion for Learning: I have a thirst for knowledge, which keeps me up-to-date with the latest industry trends and technologies.  Cultural Fit: Lastly, my personal values align well with the company’s mission and culture, making me a strong cultural fit for the team.
+Interviewer: Those are great reasons, Moki. Your passion for learning and cultural fit are definitely valuable assets.   9. What did you like least about your last job?
+Candidate: stress
+Interviewer: I understand that stress can be a challenging aspect of any job. It's important to find ways to manage and cope with stress to maintain a healthy work-life balance.   10. When were you most satisfied in your job?
+Candidate: last year
+Interviewer: It's great to hear that you had a satisfying experience last year. Could you elaborate on what made it so fulfilling for you?
+Candidate: project delivering
+Interviewer: I see. It seems like accomplishing successful project deliveries brought a sense of satisfaction to your work.   11. What can you do for us that other candidates can't?
+Candidate: Attention to Detail: Whether it’s coding, data analysis, or project planning, my attention to detail helps ensure the high quality and accuracy of my work.  Project Management: Beyond technical skills, I have experience in project planning, budgeting, and timelines, which enables me to see the bigger picture and align daily tasks with long-term goals.
+Interviewer: That's impressive, Moki. Attention to detail and project management skills are definitely valuable qualities that set you apart from other candidates.   12. What were the responsibilities of your last position?
+Candidate: I answered it already
+Interviewer: I apologize for the oversight. It seems like in your previous role as a Software Engineer at Google, your responsibilities included designing, building, and deploying machine learning models to enhance user experience and provide more accurate search results. You also collaborated with cross-functional teams and worked on projects focused on machine learning and natural language processing.   13. Why are you leaving your present job?
+Candidate: I hate corporations
+Interviewer: I understand that working in a corporate environment may not be the ideal fit for everyone. It's important to find a work environment that aligns with your values and preferences. Thank you for sharing your perspective, Moki.  That concludes the interview. Thank you for your time and thoughtful responses, Moki. We will be in touch with you regarding our decision. Have a great day!

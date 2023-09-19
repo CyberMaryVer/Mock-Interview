@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+logs/
+.idea/
+*.pyc
+.streamlit/secrets.toml
+./db/interview_*

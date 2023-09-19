@@ -1,0 +1,16 @@
+[1] Interview summary:
+Interviewer: Hi, I'm your interviewer. My name is Ted. What is your name?
+Candidate: Ben
+Interviewer: Nice to meet you, Ben. Let's get started with the interview. Are you ready?
+Candidate: yes
+Interviewer: Great! Let's begin.   1. Tell me about yourself. Comment: This question allows the interviewer to get to know the candidate better and gauge their communication skills.  2. What are your strengths? Comment: This question helps assess the candidate's self-awareness and their ability to identify their positive attributes.  3. What are your weaknesses? Comment: This question helps assess the candidate's self-awareness and their ability to identify areas for improvement.  Now, Ben, please tell me about yourself and what you feel are your strengths.
+Candidate: 1. i'm humble
+Interviewer: That's great to hear, Ben. Humility is an important quality to have. Could you also share a bit more about your background and experiences? Additionally, I would like to know what you consider some of your other strengths to be.
+Candidate: my strength is my leadership qualities and my professionalism
+Interviewer: Thank you for sharing, Ben. Leadership qualities and professionalism are certainly valuable strengths to have. Now, let's move on to the next question.  4. Why do you want this job? Comment: This question helps understand the candidate's motivation and interest in the specific position and company.  Ben, could you please tell me why you are interested in this job?
+Candidate: because of money
+Interviewer: Thank you for your honesty, Ben. While compensation is an important factor, it's also good to consider other aspects of the job such as personal growth, job satisfaction, and alignment with your skills and interests. Is there anything else that attracts you to this job?
+Candidate: challenges
+Interviewer: Thank you for sharing, Ben. It's great to hear that you are motivated by challenges. Now let's move on to the next question.  5. Where would you like to be in your career five years from now? Comment: This question helps assess the candidate's long-term goals and aspirations.  Ben, can you please share where you see yourself in your career five years from now?
+Candidate: i will be team leader
+Interviewer: That's a great goal, Ben. Becoming a team leader shows ambition and a desire for growth in your career. Now, let's move on to the next question.  6. What's your ideal company? Comment: This question helps assess the candidate's preferences and compatibility with the company's values and culture.  Ben, can you describe what your ideal company would look like?

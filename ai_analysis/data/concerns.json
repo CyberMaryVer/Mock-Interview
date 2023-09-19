@@ -1,0 +1,77 @@
+{
+  "Candidate is Overqualified for the Position": {
+    "concern": "The candidate's skill set and experience may exceed the requirements for the position. This could lead to dissatisfaction, boredom, and potentially high turnover.",
+    "resolution": "During the interview, discuss the candidate's expectations for the role and career growth. Determine if they are genuinely interested in the position or see it as a short-term option.",
+    "example_question": "What interests you most about this role given your extensive experience?"
+  },
+  "Candidate Uses Buzzwords Without Specifics": {
+    "concern": "The candidate is using industry jargon without concrete examples, making it unclear what their real capabilities are.",
+    "resolution": "Ask for specific examples that demonstrate their expertise during the interview process.",
+    "example_question": "Can you provide a specific example where you applied [Buzzword] in a project?"
+  },
+  "Relevant Experience but Unclear Technical Stack": {
+    "concern": "While the candidate has experience in the field, it's not clear if they are familiar with the specific technologies required for the job.",
+    "resolution": "Conduct a technical interview or assessment to gauge competency in the required stack.",
+    "example_question": "Can you describe your experience with [Required Technology]?"
+  },
+  "Career Gaps in the CV": {
+    "concern": "There are unexplained periods of unemployment which might signal issues.",
+    "resolution": "Inquire about the career gaps and assess if the reasons provided are legitimate and won't affect job performance.",
+    "example_question": "Could you explain the gap in your employment between [Year] and [Year]?"
+  },
+  "Frequent Job Changes": {
+    "concern": "Changing jobs too often may indicate a lack of commitment or other issues.",
+    "resolution": "Discuss the frequent job changes to understand the context better. Look for patterns that might indicate behavior likely to continue.",
+    "example_question": "I noticed you've changed jobs frequently. Can you explain the reason behind this?"
+  },
+  "Unclear Current Job Role": {
+    "concern": "It's not clear what responsibilities the candidate currently holds, making it difficult to assess suitability.",
+    "resolution": "Ask for more information on their current role, objectives, and achievements during the interview.",
+    "example_question": "Could you elaborate on your current job responsibilities?"
+  },
+  "Unclear Career Progression": {
+    "concern": "If there's a lack of upward mobility in their career, it could indicate limitations in skills or ambition.",
+    "resolution": "Discuss career goals and previous job roles to understand how the candidate sees their career progressing.",
+    "example_question": "How do you envision your career progression in the next 5 years?"
+  },
+  "Unclear Leadership Experience": {
+    "concern": "It's not clear if the candidate has the necessary experience to lead a team, if required.",
+    "resolution": "Probe for examples of leadership or team management during their career.",
+    "example_question": "Can you describe a situation where you had to take a leadership role?"
+  },
+  "Teamwork Abilities Unknown": {
+    "concern": "Without clear examples, it's hard to assess if the candidate can effectively work in a team.",
+    "resolution": "Use behavioral interview questions to determine how well they collaborate with others.",
+    "example_question": "Can you give an example of a successful team project you were a part of?"
+  },
+  "Ability to Work Independently": {
+    "concern": "It's not clear if the candidate can manage tasks and projects on their own.",
+    "resolution": "Ask for examples where they had to operate independently, solve problems, and meet deadlines without supervision.",
+    "example_question": "Can you share an experience where you had to complete a project entirely on your own?"
+  },
+  "Cultural Fit": {
+    "concern": "The candidate's work style, values, and behaviors may not align with the company culture.",
+    "resolution": "Use situational questions or psychological assessments to evaluate cultural fit.",
+    "example_question": "How would you describe the ideal company culture for you?"
+  },
+  "Salary Expectations": {
+    "concern": "The candidate's salary expectations may not align with the budget for the position.",
+    "resolution": "Have a frank discussion about salary expectations early in the hiring process.",
+    "example_question": "What are your salary expectations for this role?"
+  },
+  "Remote Work Capabilities": {
+    "concern": "If the position requires remote work, it's unclear if the candidate has the discipline and setup for it.",
+    "resolution": "Ask about any prior remote work experience and the candidate's comfort level with it.",
+    "example_question": "Do you have experience working remotely?"
+  },
+  "Non-compete Clauses": {
+    "concern": "The candidate may have legal obligations with a previous employer that could restrict their role.",
+    "resolution": "Confirm any non-compete clauses or other contractual obligations that may interfere with the candidate's ability to fully perform in the new role.",
+    "example_question": "Are you currently under any non-compete agreements?"
+  },
+  "Adaptability": {
+    "concern": "The candidate may struggle with adapting to new processes or technologies.",
+    "resolution": "Question the candidate about their experiences with adapting to new situations or technologies in the past.",
+    "example_question": "Can you describe a situation where you had to adapt to a new technology or process?"
+  }
+}

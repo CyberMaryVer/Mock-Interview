@@ -1,0 +1,14 @@
+# FOR STREAMLIT
+streamlit
+streamlit-authenticator
+streamlit-on-Hover-tabs
+extra-streamlit-components
+streamlit_js_eval
+streamlit_feedback
+
+# OTHERS
+openai
+pandas
+numpy
+requests
+loguru

@@ -1,0 +1,6 @@
+[b3d7b9c2-aaa0-4826-9a04-41c1f49e8a15] Interview summary:
+Interviewer: Hi, I'm your interviewer. My name is Ted. What is your name?
+Candidate: Mo
+Interviewer: Hi Mo, nice to meet you. Are you ready to begin the interview?
+Candidate: yes
+Interviewer: Great! Let's start with the first question:  1. Explain the trade-offs between using Python and Kotlin for developing scalable distributed systems.  Comment: This question is aimed at understanding the candidate's knowledge about the advantages and limitations of using Python and Kotlin in the context of distributed systems.  Question: In your opinion, what are the trade-offs between using Python and Kotlin for developing scalable distributed systems?

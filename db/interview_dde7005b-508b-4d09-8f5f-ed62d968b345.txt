@@ -1,0 +1,11 @@
+[a9942b44-b593-4bcf-852e-736e880bcaf1] Interview summary:
+Interviewer: Hi, I'm your interviewer. My name is Ted. What is your name?
+Candidate: Neron
+Interviewer: Nice to meet you, Neron. Let's get started.   1. Tell me about your current role at Google. 
+Candidate: That's a great question. While I have enjoyed my time and have gained invaluable experience in my current role, I am looking for a new challenge that allows me to grow in different ways.
+Interviewer: That's understandable, Neron. It's always good to seek new opportunities for growth.   2. What interests you about the Senior Machine Learning Engineer position?
+Candidate: Technologically speaking, I would be excited to work with cutting-edge tools and platforms that allow for experimentation and improvement. The opportunity to work on projects with real-world impact is a big motivator for me.
+Interviewer: That's great, Neron. The Senior Machine Learning Engineer position at our company would offer you the opportunity to work with advanced technologies and make a tangible impact.   3. Can you explain your experience with Python?
+Candidate: I was part of a team responsible for refactoring an existing ad click prediction system to make it more scalable and efficient. We employed a microservices architecture to modularize different components of the system, such as feature extraction, prediction, and logging. Each of these microservices was designed to be stateless so that they could be easily scaled horizontally.
+Interviewer: Impressive, Neron. Your experience with Python in refactoring and scaling a complex ad click prediction system using a microservices architecture showcases your proficiency in Python and demonstrates your ability to work with large-scale systems.   4. Have you worked with scalable distributed systems before?
+Candidate: Sure, I told you before

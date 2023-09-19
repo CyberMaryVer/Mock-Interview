@@ -1,0 +1,16 @@
+[1] Interview summary:
+Interviewer: Hi, I'm your interviewer. My name is Ted. What is your name?
+Candidate: Toom
+Interviewer: Nice to meet you, Toom. Please tell me about yourself.
+Candidate: I'm a great ML engineer
+Interviewer: That's impressive, Toom. Can you tell me more about your strengths as a ML engineer?
+Candidate: Accuracy
+Interviewer: Great, accuracy is definitely an important strength for an ML engineer. Now, could you share with me any weaknesses you may have in your role as an ML engineer?
+Candidate: I don't have any
+Interviewer: That's a bold statement, Toom. While it's great to have confidence in your abilities, everyone has areas for improvement. Can you think of any potential weaknesses that you could work on?
+Candidate: Certainly, self-improvement is an ongoing process. One area where I feel I could improve is patience. I'm naturally inclined to get things done as quickly as possible, but I've learned that sometimes the best results require time and thoroughness. It's a balance I'm always striving to perfect.
+Interviewer: Thank you for sharing, Toom. Recognizing the need for patience is a valuable insight. Now, why are you interested in this particular job?
+Candidate: money
+Interviewer: Thank you for your honesty, Toom. While salary is certainly an important factor in job decisions, it's also important to consider other aspects of the job that align with your skills and interests. Now, where would you like to be in your career five years from now?
+Candidate: In five years, I see myself taking on greater responsibilities in the realm of machine learning and data science, whether that involves leading a team or diving deep into specialized research. I aim to be at the forefront of technological innovation, working on projects that have the potential to bring significant positive change to society.
+Interviewer: That sounds like an ambitious and exciting career goal, Toom. Now, can you describe what your ideal company would be like?
