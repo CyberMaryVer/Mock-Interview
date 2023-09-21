@@ -7,8 +7,8 @@ from streamlit_feedback import streamlit_feedback
 
 from ai_analysis.openai_tools import openai_response, openai_response_for_text
 from ai_analysis.prompts.default import assesment_default
-from ai_analysis.prompts.screening import screening_assessment
-from ai_analysis.prompts.tech import tech_assessment
+from ai_analysis.prompts.screening import screening_assessment, scr_assessment_format
+from ai_analysis.prompts.tech import tech_assessment, tech_assessment_format
 from utils.st_sessionstate import st_getenv, st_apikey
 from utils.st_retrieval import load_unique_ids, load_interview_plan
 
@@ -200,13 +200,13 @@ def main(admin=None):
 
         # get summary
         if st_getenv("plan_type") == "screening":
-            assesment_instructions = screening_assessment
+            assesment_instructions = screening_assessment + scr_assessment_format
         elif st_getenv("plan_type") == "tech":
-            assesment_instructions = tech_assessment
+            assesment_instructions = tech_assessment + tech_assessment_format
         else:
             assesment_instructions = assesment_default
 
-        assesment_instructions = f"{assesment_instructions}\n\nTranscript:\n{logs}"
+        assesment_instructions = assesment_instructions.replace("{text}", logs)
         messages = [{"role": "system", "content": assesment_instructions}, ]
 
         with st.spinner("Generating summary..."):

@@ -68,10 +68,5 @@
     "concern": "The candidate may have legal obligations with a previous employer that could restrict their role.",
     "resolution": "Confirm any non-compete clauses or other contractual obligations that may interfere with the candidate's ability to fully perform in the new role.",
     "example_question": "Are you currently under any non-compete agreements?"
-  },
-  "Adaptability": {
-    "concern": "The candidate may struggle with adapting to new processes or technologies.",
-    "resolution": "Question the candidate about their experiences with adapting to new situations or technologies in the past.",
-    "example_question": "Can you describe a situation where you had to adapt to a new technology or process?"
   }
 }

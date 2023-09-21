@@ -40,7 +40,24 @@ def create_interview_plan(job_data, cv_data, instructions=screening_instructions
     This function creates interview plan
     :return: None
     """
-    instructions = f"TASK:\n{instructions}\n\nJOB DESCRIPTION:\n{job_data}\n\nCV ANALYSIS:\n{cv_data}"
+    cv_dict = json.loads(cv_data)
+    job_dict = json.loads(job_data)
+    if instructions == tech_instructions:
+        try:
+            role = job_dict['position_title']
+            seniority = job_dict['seniority_level']
+            tasks = job_dict['tasks']
+            skills = job_dict['must_have_skills']
+            instructions = instructions\
+                .replace('{role}', role)\
+                .replace('{seniority}', seniority)\
+                .replace('{tasks}', f"{tasks}")\
+                .replace('{skills}', f"{skills}")
+        except Exception as e:
+            logger.error(e)
+
+    instructions = instructions.replace('{job}', job_data).replace('{cv}', cv_data)
+    instructions = f"TASK:\n{instructions}\n"
     prompt_task = f"Here is the detailed plan of the screening interview:\n"
     messages = [{"role": "system", "content": instructions},
                 {"role": "assistant", "content": prompt_task}, ]
@@ -192,7 +209,10 @@ def main(admin=None):
             for k, v in plan.items():
                 st.markdown(f"💡 **{k}:**")
                 for idx, question in enumerate(v):
-                    st.markdown(f"**Q {idx}:** {question}")
+                    if interview_type == "Technical":
+                        st.markdown(f"**Q {idx}:** {question['Q']}")
+                    elif interview_type == "Screening":
+                        st.markdown(f"**Q {idx}:** {question}")
 
             st.markdown(f"#### 📝 :blue[**Interview Plan ID:**] **{plan_id}**")
             download_results(plan_id)

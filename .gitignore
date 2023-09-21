@@ -5,3 +5,4 @@ logs/
 *.pyc
 .streamlit/secrets.toml
 ./db/interview_*
+dev.env

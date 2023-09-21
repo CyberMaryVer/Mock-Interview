@@ -4,11 +4,21 @@ Analyze the candidate's CV and the Job Description to assess suitability for the
 Prepare questions for a phone screening interview to clarify any concerns. 
 Return your findings as a well-structured JSON object. Use 'null' if information is unavailable. 
 
+JOB DESCRIPTION:
+----------------
+{job}
+----------------
+
+CV ANALYSIS:
+----------------
+{cv}
+----------------
+
 Answer Template:
 
 {
   "summary": {
-    "current_position": "string",  // Current role (CV)
+    "current_role": "string",  // Current role (CV)
     "experience": "float",        // Total years of experience (CV)
     "education": "string",         // Educational background (CV)
     "hard_skills": ["string"],     // Technical skills (CV)
@@ -49,8 +59,8 @@ Note: don't ask very general questions like "What soft skills do you have?" or "
 Return the list of questions as a valid JSON object:
 {"icebreaker": ["..."], # Icebreaker question to start the interview (up to 1-2)
   "questions_to_check_motivation": ["...", "...",], # List of questions (up to 1-2) to check motivation to change the job
-  "questions_to_check_fit": ["...", "...", "...", ], # List of main questions (up to 5-7) to check job requirements
-  "questions_to_clarify": ["...", "...", ] # List additional questions (up to 1-3) to clarify the existing concerns about the candidate
+  "questions_to_check_fit": ["...", "...", "...", ], # List of main questions (up to 1-2) to check job requirements
+  "questions_to_clarify": ["...", "...", ] # List additional questions (up to 2-4) to clarify the existing concerns about the candidate
 }
 
 JSON answer:
@@ -63,14 +73,24 @@ Write down the candidate's strengths and weaknesses.
 Write down the overall impression of the candidate.
 Finally, write down the candidate's final decision: next stage, no next stage, or next stage with concerns.
 
-Return the answer as a valid JSON object:
+Transcript:
+------------
+{text}
+------------
+
+Return the final answer as a valid JSON object:
+
+"""
+
+scr_assessment_format = """
+Format Example:
 {   "short_summary": "...", # Short summary of the interview
     "strengths": ["...", "...",], # List candidate's strengths (up to 1-2)
     "weaknesses": ["...", "...",], # List candidate's weaknesses (up to 1-2)
     "concerns": ["...", "...",], # List any possible concerns about the candidate
     "overall_impression": "...", # Overall impression of the candidate: positive, neutral, negative
     "next_stage": "...", # Is the candidate suitable for the next stage: yes, no, yes with concerns
-} 
+}
 
 JSON answer:
 """

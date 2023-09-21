@@ -8,6 +8,10 @@ streamlit_feedback
 
 # OTHERS
 openai
+langchain
+tiktoken
+python-dotenv
+pydantic
 pandas
 numpy
 requests
